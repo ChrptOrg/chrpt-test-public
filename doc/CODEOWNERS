@@ -1,0 +1,16 @@
+# Default codeowners for the entire repo
+* @username1 @username2
+
+# Specific files
+README.md @username1
+
+# Specific directories
+/src @team1
+/tests @team2
+
+# Multiple patterns
+*.js @username3
+*.py @username4
+
+# Using GitHub teams
+/docs @org/team-name
